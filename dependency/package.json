@@ -1,0 +1,16 @@
+{
+  "name": "dependency",
+  "version": "1.00.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.x <19.x",
+    "npm": "8.19.2"
+  },
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.js",
+  "files": [
+    "dist/src/*"
+  ]
+}
